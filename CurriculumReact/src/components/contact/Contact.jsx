@@ -7,7 +7,7 @@ const Contact = () => {
 
     
     return (
-      <div>contact</div>
+      <section id="contact">contact</section>
   )
 }
 
