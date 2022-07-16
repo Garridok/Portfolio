@@ -1,5 +1,6 @@
 {
   "name": "curriculumreact",
+  "homepage": "http://garrido.pro",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -8,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "emailjs-com": "^3.2.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-icons": "^4.4.0"
