@@ -18,17 +18,17 @@ const Services = () => {
                   <ul className="service_list">
                     <li>
                         <BiCheck className='service_list-icon' />
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        <p>Creative of new web Designs</p>
                     </li>
 
                     <li>
                         <BiCheck className='service_list-icon' />
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        <p>Control colors and their palettes</p>
                     </li>
 
                     <li>
                         <BiCheck className='service_list-icon' />
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        <p>Responsive Positioning</p>
                     </li>
                   </ul>
               </article>
@@ -41,17 +41,17 @@ const Services = () => {
                   <ul className="service_list">
                     <li>
                         <BiCheck className='service_list-icon' />
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        <p>Full-Stack Web Developer, with 3 years coding</p>
                     </li>
 
                     <li>
                         <BiCheck className='service_list-icon' />
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        <p>Border-radius as life style</p>
                     </li>
 
                     <li>
                         <BiCheck className='service_list-icon' />
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+                        <p>Minimalist as a passion</p>
                     </li>
                   </ul>
               </article>

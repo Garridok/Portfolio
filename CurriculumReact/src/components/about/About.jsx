@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../asset/me-about.jpg";
+import PPP from "../../asset/p2.png"
 import {RiAwardFill} from 'react-icons/ri'
 import {FiUsers} from 'react-icons/fi'
 import {BiFolderOpen} from 'react-icons/bi'
@@ -13,7 +13,7 @@ const About = () => {
 
       <div className="container about_container">
         <div className="about_me">
-          <img className="about_me-image" src={ME} alt="me" />
+          <img className="about_me-image" src={PPP} alt="me" />
         </div>
 
         <div className="about_content">
@@ -21,7 +21,7 @@ const About = () => {
           <article className="about_card">
                 <RiAwardFill className="about_icon" />
               <h5>Experience</h5>
-              <small>2+ Years in coding</small>
+              <small>3+ Years in coding</small>
             </article>
 
             <article className="about_card">
@@ -38,7 +38,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem porro saepe necessitatibus libero quod aperiam, quia dolor cumque voluptate laborum odio temporibus sint voluptates quisquam quo soluta consequatur minima expedita!
+            Hi everyone, my name is  Antonio Garrido, I'm from Huelva, Spain, I love Code, and spend time on the beach. Also I'm a Web Developer, who mainly code in FrontEnd.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>

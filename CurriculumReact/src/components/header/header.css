@@ -9,7 +9,9 @@ header {
     height: 100%;
     position: relative;
 }
-
+img {
+    border-radius: 2rem;
+}
 /* ============================ CTA ========================== */
 .cta {
     margin-top: 2.5rem;
@@ -38,15 +40,20 @@ header {
 
 /* ========================== ME =============================== */
 .me {
-    background: linear-gradient(var(--color-primary), transparent);
     width: 22rem;
-    height: 30rem;
+    height: 90rem;
     position: absolute;
     left: calc(50% - 11rem);
     margin-top: 4rem;
-    border-radius: 12rem 12rem 0 0;
+    border-radius: 12rem;
+    transform: rotate(0deg);
+    transition: var(--transition);
 }
 
+.me:hover {
+    transform: rotate(2deg);
+    transition: var(--transition);
+}
 /* ==========================Scroll Down ========================= */
 .scroll_down {
     position: absolute;

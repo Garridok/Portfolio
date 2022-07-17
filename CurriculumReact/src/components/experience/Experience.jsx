@@ -109,7 +109,7 @@ const Experience = () => {
               <BsFillPatchCheckFill className="experience_details-icon"/>
               <div>
                 <h4>Express</h4>
-                <small className="text-ligth">Intermediate</small>
+                <small className="text-ligth">Starting</small>
               </div>
             </article>
 
@@ -124,7 +124,7 @@ const Experience = () => {
                 <BsFillPatchCheckFill className="experience_details-icon"/>
                 <div>
                   <h4>MySQL</h4>
-                  <small className="text-ligth">Intermediate</small>
+                  <small className="text-ligth">Experienced</small>
                 </div>
               </article>
           </div>

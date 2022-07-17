@@ -1,7 +1,7 @@
 import React from 'react'
 import CTA from './CTA'
 import './header.css'
-import ME from '../../asset/me.png'
+import PPEE from "../../asset/PP4.png"
 import HeaderMedias from './HeaderMedias'
 
 
@@ -15,7 +15,7 @@ const Header = () => {
             <CTA />
             <HeaderMedias />
             <div className="me">
-              <img src={ME} alt="me" />
+              <img src={PPEE} alt="me" />
             </div>
 
             <a href="#contact" className='scroll_down'>Scroll Down</a>
